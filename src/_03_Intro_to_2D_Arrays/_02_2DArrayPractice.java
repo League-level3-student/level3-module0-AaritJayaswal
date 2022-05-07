@@ -31,7 +31,7 @@ public class _02_2DArrayPractice {
      *          6, 7, 8
      */
     public Integer[][] test1() {
-        
+        int[][]array= {{0,1,2},{3,4,5},{6,7,8}};
         return null;
     }
     
@@ -54,7 +54,7 @@ public class _02_2DArrayPractice {
      *          true, false
      */
     public Boolean[][] test3() {
-        
+        Boolean[][]BoolArray= {{true, false},{false, false}, {false, true}, {true, true}, {true, false}};
         return null;
     }
     
